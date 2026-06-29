@@ -8,9 +8,10 @@ Building scalable mobile platforms, SDKs, and AI-powered engineering solutions.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=11%2B+Years+of+Mobile+Engineering;Android+Platform+Specialist;SDK+Architect;AI-Powered+Engineer;Future+Staff+Engineer+and+Engineering+Manager" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mangesh%20Sambare-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/mangeshsambare)
-[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge\&logo=medium)](https://medium.com/@mangesh.sambare)
-[![Google Developer](https://img.shields.io/badge/Google-Developer_Profile-green?style=for-the-badge\&logo=google)](https://developers.google.com/profile/u/mangeshsambare)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/mangeshsambare)
+[![Medium](https://img.shields.io/badge/Medium_Blog-black?style=for-the-badge\&logo=medium)](https://medium.com/@mangesh.sambare)
+[![Google Developer](https://img.shields.io/badge/Google_Developer_Profile-green?style=for-the-badge\&logo=google)](https://developers.google.com/profile/u/mangeshsambare)
 
 </div>
 
